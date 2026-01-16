@@ -1,0 +1,12 @@
+# HEIC files (already converted to JPG)
+*.heic
+*.HEIC
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
