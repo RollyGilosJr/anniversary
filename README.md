@@ -12,14 +12,13 @@ A beautiful, interactive anniversary celebration page for Arriane Joy Doctor and
 
 ## View the Page
 
-
-Visit the live page at: `https://[your-username].github.io/anniversary/`
+Visit the live page at: **https://RollyGilosJr.github.io/anniversary/**
 
 ## Files
 
-- `anniversary.html` - Main HTML file with embedded CSS and JavaScript
+- `index.html` - Main HTML file with embedded CSS and JavaScript
 - `*.jpg` - Photo files
 
 ## Setup
 
-Simply open `anniversary.html` in a web browser, or deploy to GitHub Pages for online hosting.
+Simply open `index.html` in a web browser, or visit the GitHub Pages URL above.
